@@ -1,3 +1,5 @@
 This is my file.
 
 Add login feature.
+
+Fix bug.
